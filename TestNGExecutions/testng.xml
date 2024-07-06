@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="EcommerceProject.TestComponent.Listeners"></listener>
+	</listeners>
+	<test thread-count="5" name="Register_Validations">
+		<classes>
+			<class name="EcommerceProject.Test.Registrationexecution" />
+		</classes>
+	</test>
+	<test thread-count="5" name="Login_Validations">
+		<classes>
+			<class name="EcommerceProject.Test.Loginexecution" />
+		</classes>
+	</test>
+	<test thread-count="5" name="Main_Validations">
+		<classes>
+			<class name="EcommerceProject.Test.Mainexecution" />
+		</classes>
+	</test>
+	<test thread-count="5" name="Cart_Validations">
+		<classes>
+			<class name="EcommerceProject.Test.Cartexecution" />
+		</classes>
+	</test>
+	<test thread-count="5" name="checkOut_Validations">
+		<classes>
+			<class name="EcommerceProject.Test.Checkoutexecution" />
+		</classes>
+	</test>
+</suite>

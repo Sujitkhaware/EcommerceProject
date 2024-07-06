@@ -1,0 +1,100 @@
+[
+ {
+	"FirstName" : "Sujit",
+	"LastName" : "K",
+	"Email" : "Sujit5@gmail.com",
+	"Company" : "xyz",
+	"Password" : "pass@123",
+	"ConfirmPassword" : "pass@123",
+	"Day" : "11",
+	"Month" : "August",
+	"Year" : "1999"
+ },
+ {
+	"FirstName" : "Sujit",
+	"LastName" : "K",
+	"Email" : "Sujit6@gmail.com",
+	"Company" : "xyz",
+	"Password" : "pass@123",
+	"ConfirmPassword" : "pass@123",
+	"Day" : "11",
+	"Month" : "August",
+	"Year" : "1999"
+ } ,
+ {
+	"FirstName" : "Sujit",
+	"LastName" : "dfj",
+	"Email" : " ",
+	"Company" : "xyz",
+	"Password" : "pass@123",
+	"ConfirmPassword" : "pass@123",
+	"Day" : "11",
+	"Month" : "August",
+	"Year" : "1999"
+ } ,
+ {
+	"FirstName" : "Sujit",
+	"LastName" : "dfj",
+	"Email" : "Sujit7@xyz.com",
+	"Company" : "xsyz",
+	"Password" : "pass@123",
+	"ConfirmPassword" : "@123",
+	"Day" : "11",
+	"Month" : "August",
+	"Year" : "1999"
+ } ,
+ {
+	"MailId" : "Sujit5@gmail.com",
+	"Password" : "pass@123"
+ },
+ {
+	"MailId" : "Test",
+	"Password" : "pass@123"
+ },
+ {
+	"MailId" : "Sujit5@gmail.com",
+	"Password" : "123"
+ },
+ {
+	"MailId" : "Sujit5@gmail.com",
+	"Password" : "pass@123",
+        "Product" : "HP Spectre XT Pro UltraBook"
+ },
+ {
+	"MailId" : "Sujit5@gmail.com",
+	"Password" : "pass@123",
+        "Product" : "Lenovo Thinkpad X1 Carbon Laptop"
+ },
+ {
+	"MailId" : "Sujit5@gmail.com",
+	"Password" : "pass@123",
+        "Product" : "Samsung Series 9 NP900X4C Premium Ultrabook",
+	"FirstName" : "Sujit",
+	"LastName" : "K",
+	"Email" : "Sam@gmail.com",
+	"Company" : "NA",
+	"Country" : "India",
+	"City" : "NA",
+	"Address1" : "New Address",
+	"Address2" : "Address new two",
+	"ZipCode" : "123456",
+	"Phone" : " ",
+	"Fax" : "Test123"
+ },
+ {
+	"MailId" : "Sujit6@gmail.com",
+	"Password" : "pass@123",
+        "Product" : "Asus N551JK-XO076H Laptop",
+	"FirstName" : "Sujit",
+	"LastName" : "K",
+	"Email" : "Sam@gmail.com",
+	"Company" : "NA",
+	"Country" : "India",
+	"City" : "NA",
+	"Address1" : "New Address",
+	"Address2" : "Address new two",
+	"ZipCode" : "123456",
+	"Phone" : "1234567891",
+	"Fax" : "Test123"
+ }
+]
